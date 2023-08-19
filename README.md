@@ -1,8 +1,10 @@
 [//]: # "Image References"
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
+[image2]: ./Certificate.png "Nano Degree Completion"
 
 # Dog Breed Classifier Capstone Project
+![Nano Degree Completion][image2]
 
 ## Project Overview
 
